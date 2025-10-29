@@ -49,11 +49,11 @@
     - 目的是為了 bashrc 使用
     - 指令：
 
-           ```shell
-           update-alternatives --display java
-           ```
+    ```shell
+    update-alternatives --display java
+    ```
 
-      ![檢查java位置](/screen%20shot/image.png)
+    ![檢查java位置](./screen%20shot/image.png)
 
 3.  **安裝 SSH 與 Rsync**
 
