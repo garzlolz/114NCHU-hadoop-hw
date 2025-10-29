@@ -13,7 +13,7 @@
 建議版本
 python3 -v => Python 3.12.3
 java -V => sudo apt install openjdk-17-jre-headless
-![檢查版本](VirtualBox_master_29_10_2025_19_54_59.png)
+![檢查版本](./screen%20shot/VirtualBox_master_29_10_2025_19_54_59.png)
 
 4. 安裝 spark
 
